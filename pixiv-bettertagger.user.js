@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Pixiv BetterTagger
 // @namespace    https://pixiv.me/ashgale
-// @version      0.1
+// @version      0.1.1
 // @description  Use the search API to allow english tags to be used
 // @author       Ashgale
+// @license      MIT
+// @supportURL   https://github.com/GaleOfAshes/pixiv-bettertagger/issues
 // @match        https://www.pixiv.net/upload.php
 // @icon         https://www.google.com/s2/favicons?domain=pixiv.net
 // @grant        GM_addStyle
