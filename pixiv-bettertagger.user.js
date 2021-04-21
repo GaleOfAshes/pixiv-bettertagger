@@ -18,9 +18,6 @@
         border: 1px lightgray solid;
         margin: 0 0 10px 10px;
       }
-      :focus ~ .BetterTagger-choices {
-        display: block;
-      }
       .BetterTagger-choices:empty {
         display: none;
       }
