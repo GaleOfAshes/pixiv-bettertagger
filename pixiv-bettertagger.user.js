@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pixiv BetterTagger
 // @namespace    https://pixiv.me/ashgale
-// @version      0.1.1
+// @version      0.1.2
 // @description  Use the search API to allow english tags to be used
 // @author       Ashgale
 // @license      MIT
